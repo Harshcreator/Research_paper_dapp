@@ -1,5 +1,5 @@
 ### Vision
-- Making easier for students to write research papers.
+- Making it easier for students to write research papers.
 
 ### Description
 
@@ -17,3 +17,7 @@ Students often struggle with understanding content and formatting requirements, 
 ```
 This platform aims to create a collaborative and supportive ecosystem for students, mentors, and educators alike, fostering innovation and academic growth.
 ```
+### Team Members
+
+- Harsh Singh (harshsingh220603@gmail.com)
+- Kush Agrawal (kushagrawal2863@gmail.com)
