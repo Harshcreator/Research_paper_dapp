@@ -10,10 +10,10 @@ Many students face challenges in grasping content and formatting guidelines, fin
 ### Key features include:
 
 ```
-- **Idea Validation:** Verifying the feasibility and significance of research concepts.
-- **Decentralized Research Paper Storage:** Secure and transparent archival of academic papers.
-- **Mentorship Incentives:** Offering rewards to mentors for their guidance and support.
-- **Research Funding:** Offering students access to financial resources to support their research endeavors.
+- Idea Validation: Verifying the feasibility and significance of research concepts.
+- Decentralized Research Paper Storage: Secure and transparent archival of academic papers.
+- Mentorship Incentives: Offering rewards to mentors for their guidance and support.
+- Research Funding: Offering students access to financial resources to support their research endeavors.
 ```
 
 ### Team Members
