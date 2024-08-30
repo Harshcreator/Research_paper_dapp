@@ -4,19 +4,18 @@
 ### Description
 
 ```
-Students often struggle with understanding content and formatting requirements, finding appropriate mentorship, and securing funding for experimental research. This project proposes a platform that serves as a hub for various research ideas and inspiration. It connects students with mentors tailored to their specific needs and allows teachers, mentors, and other students to invest in research projects.
+Many students face challenges in grasping content and formatting guidelines, finding suitable mentorship, and obtaining funding for experimental research. This project aims to create a platform that acts as a central hub for diverse research ideas and inspiration. It connects students with mentors who are specifically suited to their needs and enables teachers, mentors, and fellow students to invest in research projects.
 ```
 
 ### Key features include:
 
-- Topic Validation: Ensuring research ideas are viable and valuable.
-- Decentralized Storage of Research Papers: Secure and transparent storage of academic work.
-- Incentivizing Mentorship: Rewarding mentors for their guidance and support.
-- Funding Opportunities: Providing students with access to financial resources for their research.
+```
+- **Idea Validation:** Verifying the feasibility and significance of research concepts.
+- **Decentralized Research Paper Storage:** Secure and transparent archival of academic papers.
+- **Mentorship Incentives:** Offering rewards to mentors for their guidance and support.
+- **Research Funding:** Offering students access to financial resources to support their research endeavors.
+```
 
-```
-This platform aims to create a collaborative and supportive ecosystem for students, mentors, and educators alike, fostering innovation and academic growth.
-```
 ### Team Members
 
 - Harsh Singh (harshsingh220603@gmail.com)
